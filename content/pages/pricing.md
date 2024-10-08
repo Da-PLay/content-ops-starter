@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Brain Blast
 slug: pricing
 sections:
   - title:
