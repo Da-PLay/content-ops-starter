@@ -1,6 +1,6 @@
 ---
 title: Money Flap
-slug: careers
+slug: money-flap
 sections:
   - title:
       text: A team that works closely together
