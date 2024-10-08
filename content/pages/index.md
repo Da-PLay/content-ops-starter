@@ -14,7 +14,7 @@ sections:
     items: []
     actions: []
     badge:
-      label: This is a badge
+      label: Welcome to Daplay
       color: text-primary
       styles:
         self:
