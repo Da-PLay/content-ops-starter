@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Money Flap
 slug: careers
 sections:
   - title:
