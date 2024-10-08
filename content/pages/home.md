@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /
+slug: /home
 sections:
   - type: FeaturedItemsSection
     title:
