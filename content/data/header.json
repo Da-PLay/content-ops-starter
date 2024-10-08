@@ -23,7 +23,7 @@
         {
             "label": "Brain Blast",
             "altText": "Brain Blast",
-            "url": "/blog",
+            "url": "/brain-blast",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
