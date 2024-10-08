@@ -3,7 +3,7 @@ title: Money Flap
 slug: money-flap
 sections:
   - title:
-      text: Open positions
+      text: Money Flop
       color: text-dark
       styles:
         self:
