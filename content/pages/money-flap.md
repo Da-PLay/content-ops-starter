@@ -3,7 +3,7 @@ title: Money Flap
 slug: money-flap
 sections:
   - title:
-      text: A team that works closely together
+      text: Money Flap
       color: text-dark
       styles:
         self:
