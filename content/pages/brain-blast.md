@@ -3,7 +3,7 @@ title: Brain Blast
 slug: brain-blast
 sections:
   - title:
-      text: Flexible Pricing
+      text: Brain Blast
       color: text-dark
       styles:
         self:
