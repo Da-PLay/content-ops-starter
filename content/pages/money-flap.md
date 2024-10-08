@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Coming Soon!!!
     items: []
     actions: []
     variant: toggle-list
