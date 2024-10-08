@@ -1,6 +1,6 @@
 ---
 title: Brain Blast
-slug: pricing
+slug: brain-blast
 sections:
   - title:
       text: Flexible Pricing
