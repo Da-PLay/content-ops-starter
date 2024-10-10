@@ -1,6 +1,6 @@
 ---
 title: Brain Blast
-slug: brain-blast
+slug: /
 sections:
   - title:
       text: Brain Blast
